@@ -91,7 +91,6 @@ ul {
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
-  text-decoration-line: underline;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -102,7 +101,6 @@ ul {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
-  text-decoration-line: underline;
   color: #ffffff;
   background-color: var(--accent-color);
   cursor: pointer;
